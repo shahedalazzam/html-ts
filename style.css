@@ -1,0 +1,35 @@
+h1{color:rgb(103, 147, 147);}
+
+h2{color:rgb(255, 1, 1);}
+
+h3{color:rgb(23, 26, 175);font-size: 30px;}
+
+h4{ color:rgb(255, 47, 227); font-style: italic;}
+
+h5{color:rgb(255, 94, 0);font-size: 2em;}
+
+h6{color:rgb(246, 255, 0);font-size: 3rem;}
+
+.hr{ color: rgb(86, 177, 196); background: fixed;}
+
+.one{
+    color: rgb(255, 0, 0);font-size:2em
+}
+
+.two{color:green ;font: arial; font-style: bold;}
+.three{color:rgb(17, 0, 255) ;font: verdana; font-style: bold;background-color: antiquewhite;text-align: center;}
+.four{color: pink;text-shadow:2px 4px 4px rgba(46,91,173,0.6) }
+.five{color: rgb(243, 119, 25);text-decoration:underline;}
+.six{color: blueviolet;text-decoration:line-through; text-align: right;}
+.seven{color: aliceblue;font-size: xx-large;background-color: green;}
+.xx{color: royalblue;text-align: center;font-style: bold;}
+.yy{color: red;text-align: center;font-style: bold;}
+.nine{font-size:30px  ;color:rgb(1, 107, 107);text-decoration: underline;}
+.ten{background-color: aqua;color: rgb(79, 156, 2);font-size: 30px;}
+.ttt{color: red;}
+.bbb{color: rgb(0, 149, 255);}
+.background{background-color: aqua;}
+.AAA{width: 25%;}
+.CCC{width: 25%;height: 500px;}
+.divfinal{background-color: rgb(209, 209, 209);}
+.whiii{background-color: aliceblue;}
